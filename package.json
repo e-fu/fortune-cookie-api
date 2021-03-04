@@ -31,7 +31,7 @@
     "mongoose-simple-random": "^0.3.3"
   },
   "devDependencies": {
-    "chai": "^3.3.0",
+    "chai": "^4.3.3",
     "istanbul": "^0.3.22",
     "mocha": "^1.21.4",
     "mockgoose": "^4.0.2",
